@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 😄 Fun fact: I'm a Python Developer
 - 🔭 I’m looking to collaborate Devops.
 - 📫 How to reach me: [Email](rkirankumarreddy599@gmail.com).
-- 💬 Ask me about `Machine Learning` or `Deep Learning`
+- 💬 Ask me about `Machine Learnin` or `Deep Learning`
 
 
 ## My stack:
