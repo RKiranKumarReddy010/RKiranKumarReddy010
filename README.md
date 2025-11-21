@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
 
 ## My stack:
-- 5+ years of experience in Python
-- 3+ years of experience in Machine Learning
+- 1+ years of experience in Machine Learning and gen ai
 - 1+ years of experience in Flutter
 - 🏆 Chat bots using GENAI
 - ❤️ API, RESTful API, GraphQL
