@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 ## My stack:
 - 1+ years of experience in Machine Learning and gen ai
-- 1+ years of experience in Flutter
 - 🏆 Chat bots using GENAI
 - ❤️ API, RESTful API, GraphQL
 - HTML/CSS, Javascript
@@ -72,7 +71,6 @@ Here are some ideas to get you started:
 
 ## My Journey
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=RKiranKumarReddy010&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RKiranKumarReddy010&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=RKiranKumarReddy010&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=RKiranKumarReddy010&theme=onedark" />
