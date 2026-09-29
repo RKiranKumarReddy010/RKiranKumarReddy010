@@ -86,11 +86,17 @@
 
 ---
 
-### 🏆 Trophy Cabinet
+### 🏆 Trophy Cabinet — Mentoring on Topmate
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RKiranKumarReddy010&theme=algolia&no-frame=true&row=1&column=6" />
+Generative AI Developer & Consultant — 1:1 calls, AI consulting, and GenAI sessions
+
+[![Rating](https://img.shields.io/badge/⭐_4.9%2F5-588_ratings-2ea44f?style=for-the-badge)](https://topmate.io/kiran_kumar_reddy010)
+[![Bookings](https://img.shields.io/badge/📅_642-Bookings-1e3c72?style=for-the-badge)](https://topmate.io/kiran_kumar_reddy010)
+[![Testimonials](https://img.shields.io/badge/💬_76-Testimonials-8250df?style=for-the-badge)](https://topmate.io/kiran_kumar_reddy010)
+
+[![Book a session on Topmate](https://img.shields.io/badge/Book_a_1:1_session-Topmate-f2545b?style=for-the-badge&logo=topmate&logoColor=white)](https://topmate.io/kiran_kumar_reddy010)
 
 </div>
 
