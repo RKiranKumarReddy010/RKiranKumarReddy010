@@ -56,17 +56,17 @@
 <div align="center">
 
 <a href="https://github.com/RKiranKumarReddy010/ydata-profiling">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RKiranKumarReddy010&repo=ydata-profiling&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=RKiranKumarReddy010&repo=ydata-profiling&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/RKiranKumarReddy010/Portfolio-Blog">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RKiranKumarReddy010&repo=Portfolio-Blog&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=RKiranKumarReddy010&repo=Portfolio-Blog&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/RKiranKumarReddy010/ResearchBase">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RKiranKumarReddy010&repo=ResearchBase&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=RKiranKumarReddy010&repo=ResearchBase&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/RKiranKumarReddy010/ODMS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RKiranKumarReddy010&repo=ODMS&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=RKiranKumarReddy010&repo=ODMS&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -77,10 +77,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RKiranKumarReddy010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RKiranKumarReddy010&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=RKiranKumarReddy010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=RKiranKumarReddy010&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKiranKumarReddy010&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RKiranKumarReddy010&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
